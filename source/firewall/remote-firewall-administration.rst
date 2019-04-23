@@ -21,7 +21,7 @@ details will vary depending on the VPN configuration.
 Restricted Firewall Access
 --------------------------
 
-If the WebGUI port must be to the Internet, restrict it by IP
+If the WebGUI port must be open to the Internet, restrict it by IP
 address/range as much as possible. Ideally, if there is a static IP
 address at the location to manage from, allow traffic from that IP or
 subnet and nowhere else. Aliases are good to use, and they may include
